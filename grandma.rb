@@ -15,10 +15,11 @@ def speak_to_grandma(said_to_grandma)
   if said_to_grandma == "I LOVE YOU GRANDMA!"
     response = "I LOVE YOU TOO PUMPKIN!"
     RETURN response
-  else if said_to_grandma == said_to_grandma.upcase
+  elseif said_to_grandma == said_to_grandma.upcase
     response =  "NO, NOT SINCE 1938!"
     RETURN response
   else 
     response =  "HUH?! SPEAK UP SONNY!"
     RETURN response
+  end
 end
