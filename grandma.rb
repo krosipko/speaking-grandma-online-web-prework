@@ -19,6 +19,6 @@ def speak_to_grandma(spoken)
     response = "NO, NOT SINCE 1938!"
     return response
   else 
-    response = "HUH?! SPEAK UP SONNY!"
+    response = "HUH?! SPEAK UP, SONNY!"
   end
 end
