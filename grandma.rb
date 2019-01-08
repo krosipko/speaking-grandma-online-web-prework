@@ -22,4 +22,3 @@ def speak_to_grandma(said_to_grandma)
     response =  "HUH?! SPEAK UP SONNY!"
     RETURN response
   end
-end
